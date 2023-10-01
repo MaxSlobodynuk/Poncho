@@ -1,0 +1,15 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-phone" viewBox="0 0 32 32">
+<path fill="none" stroke="#ffd600" style="stroke: var(--color1, #ffd600)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M6.667 5.333h5.333l2.667 6.667-3.334 2c1.456 2.908 3.759 5.211 6.583 6.629l0.084 0.038 2-3.334 6.667 2.667v5.333c0 1.473-1.194 2.667-2.667 2.667v0c-10.764-0.674-19.326-9.236-19.997-19.939l-0.003-0.061c0-1.473 1.194-2.667 2.667-2.667v0z"></path>
+</symbol>
+<symbol id="icon-telegram" viewBox="0 0 32 32">
+<path fill="none" stroke="#ffd600" style="stroke: var(--color1, #ffd600)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M20 13.333l-5.333 5.334 8 8 5.333-21.334-24 9.334 5.333 2.666 2.667 8 4-5.333"></path>
+</symbol>
+<symbol id="icon-tik" viewBox="0 0 32 32">
+<path fill="none" stroke="#ffd600" style="stroke: var(--color1, #ffd600)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M28 10.556v5.379c-2.537-0.259-4.816-1.196-6.7-2.626l0.033 0.024v6c-0.001 4.786-3.88 8.665-8.666 8.665s-8.666-3.88-8.666-8.666c0-4.076 2.815-7.496 6.607-8.42l0.059-0.012v5.768c-0.813 0.615-1.333 1.58-1.333 2.666 0 1.841 1.492 3.333 3.333 3.333s3.333-1.492 3.333-3.333c0-0 0-0.001 0-0.001v0-15.333h5.444c0.585 3.359 3.197 5.971 6.508 6.549l0.048 0.007z"></path>
+</symbol>
+</defs>
+</svg>
+
+
