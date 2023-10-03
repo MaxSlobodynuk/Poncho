@@ -520,4 +520,41 @@ a{
   .check-container-footer {
 
   }
+
+  .navigationButtonContainer {
+    max-width: 311px;
+  }
+
+  .title-price {
+    font-family: Nunito,sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+  }
+
+  .price {
+    font-family: Nunito,sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: var(--accent-color);
+    text-align: center;
+  }
+
+  .container-price {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: var(--main-color);
+    margin-bottom: 32px;
+  }
+
+  .photo-header-img {
+    margin-bottom: 0px;
+  }
+
+  .header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
 }
