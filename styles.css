@@ -557,4 +557,17 @@ a{
     padding-top: 15px;
     padding-bottom: 15px;
   }
+
+  label.error{
+    display: none!important;
+  }
+
+  form input.error{
+    border-color:red;
+    box-shadow: 0 0 2px red;
+  }
+
+  .check-link-footer {
+    display: flex;
+  }
 }
