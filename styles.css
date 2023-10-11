@@ -570,4 +570,27 @@ a{
   .check-link-footer {
     display: flex;
   }
+
+  /* .status-ok {
+    max-width: 100%;
+    background-color: chartreuse;
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .status-title-ok {
+    font-family: Nunito,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+  }
+
+  .status-paragraph-ok {
+    font-family: Nunito,sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+  } */
 }
